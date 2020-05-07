@@ -1,5 +1,9 @@
 # crawler
-easily scrape specific table or document. minimalize your effort to analyze HTML to get element addresses.
+you don't have to analyze HTML to get element paths.
+just give the keys in the contents that can identify where you are interested in.
+
+- it works out on Dynamic webpages
+- it supports output to excel
 
 ```python
 ## example ##
