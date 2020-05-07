@@ -1,5 +1,5 @@
 # crawler
-you don't have to analyze HTML to get element paths.
+you don't have to analyze HTML to get element paths in data with rows.
 just give the keys in the contents that can identify where you are interested in.
 
 - it works out on Dynamic webpages
